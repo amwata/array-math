@@ -2,7 +2,7 @@
 @font-face
  {
  	font-family:ns;
- 	src:url(nasalization.ttf);
+ 	src:url(/nasalization.ttf);
  }
 
 .loader{
